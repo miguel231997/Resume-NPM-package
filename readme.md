@@ -1,0 +1,1 @@
+created a resume template as in objecty using JavaScript!

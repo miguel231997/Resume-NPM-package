@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "bin": {
+    "resume-me": "./index.js"
+  },
+  "name": "miguel231997-resume",
+  "version": "1.0.0",
+  "description": "my first node package",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "miguel galindo",
+  "license": "ISC"
+  
+}

@@ -1,0 +1,28 @@
+{ 
+    "resume" :{
+    "name": "Miguel Galindo",
+    "website": "https://tomatohammado.github.io/",
+    "linkedin": "https://www.linkedin.com/in/miguelgg/",
+    "github": "https://github.com/miguel231997",
+    "email": "hammad.malik@generalassemb.ly",
+    "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}
+}
